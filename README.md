@@ -1,8 +1,8 @@
 # Hi there, I'm Ashwin Karthik M 👋
 
-Welcome to my GitHub profile! I'm passionate about Cyber security and Web Technology. Here you can find some of my projects, contributions, and learn more about me.
+Welcome to my GitHub profile! I'm passionate about Cyber security, Ethical Hacking and Web Technology. Here you can find some of my projects, contributions, and learn more about me.
 
-![Welcome GIF](https://github.com/Ashwin-github-tech/yourrepository/raw/main/path-to-your-image.png)
+![Welcome GIF](https://github.com/Ashwin-github-tech/profile.png)
 
 
 
