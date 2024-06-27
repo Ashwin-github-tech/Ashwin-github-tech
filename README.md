@@ -10,11 +10,7 @@ Welcome to my GitHub profile! I'm passionate about Cyber security and Web Techno
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/ashwin-karthik-m-37470b259/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ashwin-karthik-m-37470b259)
 
 
-## 🎨 Design
-
-![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)
-![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white)
 
