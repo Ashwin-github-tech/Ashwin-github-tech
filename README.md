@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about cybersecurity, ethical hacking, and web technology. Here you can find some of my projects, contributions, and learn more about me.
 
-![Welcome GIF](https://github.com/Ashwin-github-tech/Ashwin-github-tech/assets/118421107/855115a9-a034-4015-8f63-a55bc01ddcf1)
+![Welcome GIF](https://ibb.co/CBYQq9v)
 
 ## 📈 GitHub Stats
 
