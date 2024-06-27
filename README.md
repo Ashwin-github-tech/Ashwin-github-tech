@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about cybersecurity, ethical hacking, and web technology. Here you can find some of my projects, contributions, and learn more about me.
 
-<## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwin-github-tech&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-github-tech&layout=compact)
