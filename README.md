@@ -2,13 +2,14 @@
 
 Welcome to my GitHub profile! I'm passionate about cybersecurity, ethical hacking, networking and web technology. Here you can find some of my projects, contributions, and learn more about me.
 
-# 📈 GitHub Stats
+# 📈 GitHub Stats#
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ashwin-github-tech&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ashwin-github-tech&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ashwin-github-tech&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ashwin-github-tech&layout=compact&theme=tokyonight&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com?user=Ashwin-github-tech&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Ashwin-github-tech&theme=tokyonight&hide_border=true)
+
 
 
 
