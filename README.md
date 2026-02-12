@@ -4,9 +4,11 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity, ethical hackin
 
 # 📈 GitHub Stats
 
-![Streak](https://streak-stats.demolab.com?user=Ashwin-github-tech&theme=tokyonight&hide_border=true)
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ashwin-github-tech&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ashwin-github-tech&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
