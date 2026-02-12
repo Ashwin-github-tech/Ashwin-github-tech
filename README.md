@@ -2,13 +2,13 @@
 
 Welcome to my GitHub profile! I'm passionate about cybersecurity, ethical hacking, networking and web technology. Here you can find some of my projects, contributions, and learn more about me.
 
-# 📈 GitHub Stats#
+# 📈 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=Ashwin-github-tech&color=blue)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ashwin-github-tech&show_icons=true&theme=tokyonight&hide_border=true)
+![Followers](https://img.shields.io/github/followers/Ashwin-github-tech?label=Followers&style=for-the-badge)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ashwin-github-tech&layout=compact&theme=tokyonight&hide_border=true)
+![Stars](https://img.shields.io/github/stars/Ashwin-github-tech?affiliations=OWNER&style=for-the-badge)
 
-![Streak](https://streak-stats.demolab.com?user=Ashwin-github-tech&theme=tokyonight&hide_border=true)
 
 
 
